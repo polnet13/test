@@ -1,5 +1,6 @@
 2번 작업: git commit -am
 3번 작업
+올린 후 4 작업
 
 asgiref==3.3.4
 Django==3.2.1
